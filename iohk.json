@@ -1,3 +1,7 @@
-{ "asset": "Input Output HK Token", "description": "Input Output HK Token", "image": "<http://iohk.io/iohk.png>", "website":
-  "<http://iohk.io>", "pgpsig":
-  "<http://iohk.io/iohk.pgp>" }
+{ 
+    "asset": "Input Output HK Token", 
+    "description": "Input Output HK Token", 
+    "image": "<http://iohk.io/iohk.png>", 
+    "website":  "<http://iohk.io>", 
+    "pgpsig":  "<http://iohk.io/iohk.pgp>" 
+}
